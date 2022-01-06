@@ -86,3 +86,12 @@ body{
     width: 30%;
     margin: auto;
 }
+.develop-area{
+    display: flex;
+}
+.global-community {
+    display: flex;
+}
+.community-text h1{
+    font-size: 30px;
+}
