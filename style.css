@@ -1,4 +1,38 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.intro{
+    display: flex;
+    padding-top: 70px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+}
+.border{
+    border-left: 3px solid rgb(13, 225, 233);
+    border-color: rgb(9, 199, 206);
+    
+}
+.intro-text h1{
+    font-size: 40px;
+    text-transform: capitalize;
+    padding-left: 5px;
+}
+.text-color {
+    color: cadetblue;
+}
+.btn{
+    padding: 15px 25px;
+    color: #FFFFFF;
+    background-color: #5F9EA0;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+
 }
