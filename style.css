@@ -36,3 +36,53 @@ body{
     font-size: 20px;
 
 }
+.goal{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 100px 80px 100px;
+}
+.mission-title .mission-color{
+    color: rgb(42, 11, 0);
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.mission-title .mission-color .missionyear-color{
+    color: darkslategrey;
+}
+.mission {
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(183, 255, 255);
+}
+.mission img{
+    width: 30%;
+    height: auto;
+}
+.vission{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(156, 107, 177);
+}
+.vission img{
+    width: 30%;
+    height: auto;
+}
+.goals{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(230, 191, 173);
+}
+.goals img{
+    width: 30%;
+    margin: auto;
+}
