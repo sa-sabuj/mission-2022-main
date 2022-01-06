@@ -95,3 +95,23 @@ body{
 .community-text h1{
     font-size: 30px;
 }
+
+.subscrib-text h1{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.subscrib-text p{
+    text-align: center;
+}
+.subscrib-form{
+    width: 50%;
+    margin: auto;
+}
+.subscrib-form input[type=text], input[type=email], input[type=password]{
+    width: 100%;
+    display: inline-block;
+}
+.subscrib-btn{
+    margin: 20px 0;
+}
