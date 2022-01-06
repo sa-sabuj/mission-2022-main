@@ -115,3 +115,18 @@ body{
 .subscrib-btn{
     margin: 20px 0;
 }
+.footer-area{
+    background-color: rgb(20, 4, 4);
+    padding: 50px 0;
+}
+.footer-area h1{
+    color: honeydew;
+    text-align: center;
+}
+.footer-area .footer-2022{
+    color: lightsalmon;
+}
+.footer-area p{
+    color: linen;
+    text-align: center;
+}
